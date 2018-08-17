@@ -1,27 +1,38 @@
 import React, { Component } from 'react';
-import { CSVLink } from 'react-csv';
+import { CSVDownload } from 'react-csv';
 
 
 export default class List extends Component { 
-  toCsv() {
+  constructor(props) {
+    super(props);
+    this.state = {
+      renderCsv: false,
+    }
+  }
+
+  handleClick() {
+    this.setState({
+      renderCsv: true,
+    })
+  }
+
+  generateCsv() {
     const { selectedList } = this.props;
-    const header = [["name", "address", "zipcode", "city", "lon", "lat"]];
+    const csvData = [["name", "address", "zipcode", "city", "lon", "lat"]];
     const shopData = [
-      ...header,
+      ...csvData,
       ...selectedList.map(({name, address, zipcode, city, coords}) => {
         return [name, address, zipcode, city, coords.lon, coords.lat];
       }),
-    ];
-    return (
-      <CSVLink filename="selected_shop.csv" data={shopData}>
-        Download CSV
-      </CSVLink>
-    )
+    ]
+    this.setState({
+      renderCsv: false,
+    });
+    return <CSVDownload data={shopData} target="_blank" />
   }
 
   render() {
     const { selectedList } = this.props;
-    console.log(selectedList);
     const selected = selectedList.map((shop, index) => {
       return (
         <li 
@@ -37,9 +48,9 @@ export default class List extends Component {
         <ul>
           {selected}
         </ul>
-          {this.toCsv()}
+        <button onClick={() => this.handleClick()}> Import CSV </button>
+        {this.state.renderCsv && this.generateCsv()}
       </div>
-  )
-
+    );
   }
 }
