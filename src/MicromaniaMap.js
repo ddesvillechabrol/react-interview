@@ -38,7 +38,7 @@ export default class MicromaniaMap extends Component {
   render() {
     const position = [48.878664, 2.294205]
     return (
-      <Map center={position} zoom="12">
+      <Map center={position} zoom="4">
         <TileLayer
           attribution="&amp;copy <a href=&quot;http://osm.org/copyright&quot;>OpenStreetMap</a> contributors"
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

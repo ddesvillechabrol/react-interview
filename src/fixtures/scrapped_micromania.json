@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Micromania Abbeville",
+    "address": "Centre commercial GEANT, 1 AVENUE VINCENT AURIOL",
+    "zipcode": "80100",
+    "city": "ABBEVILLE",
+    "coords": {
+      "lon": 1.85928377,
+      "lat": 50.09951033
+    }
+  },
+  {
+    "name": "Micromania Aeroville",
+    "address": "Centre Commercial A\u00e9roville, 30 rue des buissons",
+    "zipcode": "95700",
+    "city": "ROISSY EN FRANCE",
+    "coords": {
+      "lon": 2.519685,
+      "lat": 48.993031
+    }
+  },
+  {
+    "name": "Micromania Agen",
+    "address": "108, bld de la r\u00e9publique",
+    "zipcode": "47000",
+    "city": "AGEN",
+    "coords": {
+      "lon": 0.6221808,
+      "lat": 44.2053466
+    }
+  },
+  {
+    "name": "Micromania Aix allees provencales",
+    "address": "CCAL LES ALLEES PROVENCALES, ALLEE GUISEPPE VERDI",
+    "zipcode": "13100",
+    "city": "AIX EN PROVENCE",
+    "coords": {
+      "lon": 5.4553556,
+      "lat": 43.5252462
+    }
+  },
+  {
+    "name": "Micromania Aix en provence",
+    "address": "Centre commercial GEANT, ROUTE DE BERRE",
+    "zipcode": "13097",
+    "city": "AIX EN PROVENCE",
+    "coords": {
+      "lon": 5.40503464,
+      "lat": 43.53565569
+    }
+  },
+  {
+    "name": "Micromania Aix les milles",
+    "address": "Centre commercial CARREFOUR LES MILLES, 1175 rue G du Vair",
+    "zipcode": "13290",
+    "city": "LES MILLES",
+    "coords": {
+      "lon": 5.39631534,
+      "lat": 43.50579012
+    }
+  },
+  {
+    "name": "Micromania Albertville",
+    "address": "Centre Commercial G\u00e9ant Casino, ZA du Chiriac",
+    "zipcode": "73200",
+    "city": "ALBERTVILLE",
+    "coords": {
+      "lon": 6.386,
+      "lat": 45.674
+    }
+  },
+  {
+    "name": "Micromania Albi",
+    "address": "CCAL LECLERC LES PORTES D'ALBI, ZAC DE FONLABOUR",
+    "zipcode": "81000",
+    "city": "ALBI",
+    "coords": {
+      "lon": 2.09691912,
+      "lat": 43.91879284
+    }
+  },
+  {
+    "name": "Micromania Albi centre ville",
+    "address": "5 avenue colonel Teyssier",
+    "zipcode": "81000",
+    "city": "ALBI",
+    "coords": {
+      "lon": 2.09691912,
+      "lat": 43.91879284
+    }
+  },
+  {
+    "name": "Micromania Alencon",
+    "address": "Centre commercial Carrefour, Route de Rennes",
+    "zipcode": "61250",
+    "city": "CONDE SUR SARTHE",
+    "coords": {
+      "lon": 0.06244959,
+      "lat": 48.43290911
+    }
+  },
+  {
+    "name": "Micromania Ales centre ville",
+    "address": "Magasin MICROMANIA, 4 rue du Docteur Serres",
+    "zipcode": "30100",
+    "city": "ALES",
+    "coords": {
+      "lon": 4.0802741,
+      "lat": 44.1224736
+    }
+  },
+  {
+    "name": "Micromania Amiens dury",
+    "address": "CCal Auchan Amiens Sud, Route d\u2019Amiens",
+    "zipcode": "80480",
+    "city": "DURY",
+    "coords": {
+      "lon": 2.2807424,
+      "lat": 49.86261061
+    }
+  },
+  {
+    "name": "Micromania Amiens glisy",
+    "address": "Centre commercial GEANT GLISY, ZAC de la Croix de Fer",
+    "zipcode": "80440",
+    "city": "GLISY",
+    "coords": {
+      "lon": 2.37866063,
+      "lat": 49.86314641
+    }
+  },
+  {
+    "name": "Micromania Angers",
+    "address": "Centre commercial GEANT, Espace Anjou - 75, av. Montaigne",
+    "zipcode": "49000",
+    "city": "ANGERS",
+    "coords": {
+      "lon": -0.53210343,
+      "lat": 47.46934886
+    }
+  },
+  {
+    "name": "Micromania Angers saint serge",
+    "address": "Centre commercial SAINT SERGE, BOULEVARD GASTON RAMON",
+    "zipcode": "49000",
+    "city": "ANGERS",
+    "coords": {
+      "lon": -0.59411372,
+      "lat": 47.46828255
+    }
+  },
+  {
+    "name": "Micromania Anglet bab2",
+    "address": "Centre Commercial BAB2, 6 rue Jean L\u00e9on Laporte",
+    "zipcode": "64601",
+    "city": "ANGLET",
+    "coords": {
+      "lon": -1.50228295,
+      "lat": 43.48576006
+    }
+  },
+  {
+    "name": "Micromania Angouleme",
+    "address": "Centre commercial GEANT, Les grandes Chaumes - RN 10",
+    "zipcode": "16430",
+    "city": "CHAMPNIERS",
+    "coords": {
+      "lon": 0.18085817,
+      "lat": 45.71499099
+    }
+  },
+  {
+    "name": "Micromania Angouleme centre ville",
+    "address": "47, Rue Ren\u00e9 Goscinny",
+    "zipcode": "16000",
+    "city": "ANGOULEME",
+    "coords": {
+      "lon": 0.1639429,
+      "lat": 45.6481046
+    }
+  },
+  {
+    "name": "Micromania Angouleme la couronne",
+    "address": "ROUTE DE BORDEAUX",
+    "zipcode": "16400",
+    "city": "LA COURONNE",
+    "coords": {
+      "lon": 0.10464939,
+      "lat": 45.6173944
+    }
+  },
+  {
+    "name": "Micromania Angoulins",
+    "address": "Centre Commercial CARREFOUR, RN137",
+    "zipcode": "17690",
+    "city": "ANGOULINS",
+    "coords": {
+      "lon": -1.1053377,
+      "lat": 46.1110555
+    }
+  },
+  {
+    "name": "Micromania Annecy",
+    "address": "Centre commercial GRAND EPAGNY, 2AC de la Mandalaz - Local 54",
+    "zipcode": "74330",
+    "city": "EPAGNY",
+    "coords": {
+      "lon": 6.07613645,
+      "lat": 45.93806749
+    }
+  },
+  {
+    "name": "Micromania Annecy brogny",
+    "address": "Centre commercial CARREFOUR, 134, Avenue de Gen\u00e8ve",
+    "zipcode": "74000",
+    "city": "ANNECY",
+    "coords": {
+      "lon": 6.12518325,
+      "lat": 45.92487104
+    }
+  },
+  {
+    "name": "Micromania Antibes",
+    "address": "Centre commercial CARREFOUR, Chemin de Saint-Claude",
+    "zipcode": "06600",
+    "city": "ANTIBES",
+    "coords": {
+      "lon": 7.08586249,
+      "lat": 43.60234348
+    }
+  },
+  {
+    "name": "Micromania Antony",
+    "address": "27, Avenue de la Division Leclerc",
+    "zipcode": "92160",
+    "city": "ANTONY",
+    "coords": {
+      "lon": 2.30553243,
+      "lat": 48.75185052
+    }
+  },
+  {
+    "name": "Micromania Arcades",
+    "address": "Centre commercial LES ARCADES, Local 117",
+    "zipcode": "93160",
+    "city": "NOISY LE GRAND",
+    "coords": {
+      "lon": 2.54377639,
+      "lat": 48.83778896
+    }
+  },
+  {
+    "name": "Micromania Arcueil la vache noire",
+    "address": "Centre commercial La Vache Noire, 1 place de la Vache Noire",
+    "zipcode": "94110",
+    "city": "ARCUEIL",
+    "coords": {
+      "lon": 2.32724145,
+      "lat": 48.8097822
+    }
+  },
+  {
+    "name": "Micromania Arles",
+    "address": "Centre commercial GEANT ARLES, 17 avenue du mar\u00e9chal juin",
+    "zipcode": "13200",
+    "city": "ARLES",
+    "coords": {
+      "lon": 4.63970476,
+      "lat": 43.66703755
+    }
+  },
+  {
+    "name": "Micromania Arras",
+    "address": "Centre commercial AUCHAN, 6 Rue Claude Bernard",
+    "zipcode": "62000",
+    "city": "ARRAS",
+    "coords": {
+      "lon": 2.73335957,
+      "lat": 50.30059475
+    }
+  },
+  {
+    "name": "Micromania Athis-mons",
+    "address": "Centre commercial CARREFOUR, 180 RN7",
+    "zipcode": "91200",
+    "city": "ATHIS MONS",
+    "coords": {
+      "lon": 2.37276305,
+      "lat": 48.69831438
+    }
+  },
+  {
+    "name": "Micromania Atlantis",
+    "address": "Centre Commercial Leclerc Atlantis, Zone Atlantis",
+    "zipcode": "44800",
+    "city": "SAINT HERBLAIN",
+    "coords": {
+      "lon": -1.6311371,
+      "lat": 47.2243772
+    }
+  },
+  {
+    "name": "Micromania Aubagne",
+    "address": "Centre commercial AUCHAN, Les Paluds",
+    "zipcode": "13400",
+    "city": "AUBAGNE",
+    "coords": {
+      "lon": 5.59842908,
+      "lat": 43.28949432
+    }
+  },
+  {
+    "name": "Micromania Aubervilliers",
+    "address": "CCAL CARREFOUR MILLENAIRE RUE LA GARE, ZAC CANAL PORTE D'AUBERVILLIERS",
+    "zipcode": "93300",
+    "city": "AUBERVILLIERS",
+    "coords": {
+      "lon": 2.38120163,
+      "lat": 48.91482334
+    }
+  },
+  {
+    "name": "Micromania Aubiere",
+    "address": "Centre commercial AUBIERE PLEIN SUD, Route d'Issoire",
+    "zipcode": "63170",
+    "city": "AUBIERE",
+    "coords": {
+      "lon": 3.12846113,
+      "lat": 45.75299631
+    }
+  },
+  {
+    "name": "Micromania Auxerre",
+    "address": "Centre commercial G\u00e9ant Auxerre, Avenue Haussmann",
+    "zipcode": "89000",
+    "city": "AUXERRE",
+    "coords": {
+      "lon": 3.57383209,
+      "lat": 47.81511018
+    }
+  },
+  {
+    "name": "Micromania Avant cap",
+    "address": "CCial avant cap, local 51",
+    "zipcode": "13480",
+    "city": "CABRIES",
+    "coords": {
+      "lon": 5.36650956,
+      "lat": 43.42106416
+    }
+  },
+  {
+    "name": "Micromania Avignon",
+    "address": "Centre commercial AUCHAN PONTET, Espace Soleil Avignon Nord N\u00b0119",
+    "zipcode": "84130",
+    "city": "LE PONTET",
+    "coords": {
+      "lon": 4.88249112,
+      "lat": 43.98336851
+    }
+  },
+  {
+    "name": "Micromania Avignon angles",
+    "address": "Centre Commercial Grand Angle, 1 Avenue Tavel",
+    "zipcode": "30133",
+    "city": "LES ANGLES",
+    "coords": {
+      "lon": 4.7481868,
+      "lat": 43.9616816
+    }
+  },
+  {
+    "name": "Micromania Avignon centre ville",
+    "address": "4 rue du vieux sextier",
+    "zipcode": "84000",
+    "city": "AVIGNON",
+    "coords": {
+      "lon": 4.8076585,
+      "lat": 43.9481939
+    }
+  },
+  {
+    "name": "Micromania Balaruc",
+    "address": "Centre Commercial Balaruc, Route de S\u00e8te",
+    "zipcode": "34540",
+    "city": "BALARUC LE VIEUX",
+    "coords": {
+      "lon": 3.689298,
+      "lat": 43.4592
+    }
+  },
+  {
+    "name": "Micromania Bar le duc",
+    "address": "Centre Commercial Auchan, 1 rue de longeville",
+    "zipcode": "55000",
+    "city": "SAVONNIERES DEVANT BAR",
+    "coords": {
+      "lon": 5.17783089,
+      "lat": 48.75517008
+    }
+  },
+  {
+    "name": "Micromania Barentin",
+    "address": "Centre commercial CARREFOUR, Mesnil Roux",
+    "zipcode": "76360",
+    "city": "BARENTIN",
+    "coords": {
+      "lon": 0.96811022,
+      "lat": 49.5359741
+    }
+  },
+  {
+    "name": "Micromania Beau sevran",
+    "address": "Centre commercial BEAU SEVRAN, Rte des Petits Ponts",
+    "zipcode": "93270",
+    "city": "SEVRAN",
+    "coords": {
+      "lon": 2.52932653,
+      "lat": 48.95050409
+    }
+  },
+  {
+    "name": "Micromania Beaucaire",
+    "address": "Centre commercial Carrefour, Route de Nimes",
+    "zipcode": "30300",
+    "city": "BEAUCAIRE",
+    "coords": {
+      "lon": 4.61798232,
+      "lat": 43.81709247
+    }
+  },
+  {
+    "name": "Micromania Beaugrenelle",
+    "address": "Centre commercial BEAUGRENELLE, Rue de Linois",
+    "zipcode": "75015",
+    "city": "PARIS",
+    "coords": {
+      "lon": 2.2825643,
+      "lat": 48.8483057
+    }
+  },
+  {
+    "name": "Micromania Beauvais",
+    "address": "Centre commercial Auchan, 1, Avenue Descartes",
+    "zipcode": "60000",
+    "city": "BEAUVAIS",
+    "coords": {
+      "lon": 2.11494382,
+      "lat": 49.4095842
+    }
+  },
+  {
+    "name": "Micromania Begles bordeaux",
+    "address": "Centre commercial CARREFOUR BEGLES, Les Rives D'Arcins",
+    "zipcode": "33130",
+    "city": "BEGLES",
+    "coords": {
+      "lon": -0.5305138,
+      "lat": 44.79478347
+    }
+  },
+  {
+    "name": "Micromania Bel est",
+    "address": "Centre commercial BEL EST, 26 av du G\u00e9n\u00e9ral de Gaulle",
+    "zipcode": "93170",
+    "city": "BAGNOLET",
+    "coords": {
+      "lon": 2.41631766,
+      "lat": 48.86544368
+    }
+  },
+  {
+    "name": "Micromania Belfort",
+    "address": "CCial Auchan, LIEU DIT Blozier",
+    "zipcode": "90160",
+    "city": "BESSONCOURT",
+    "coords": {
+      "lon": 6.91625169,
+      "lat": 47.641748
+    }
+  },
+  {
+    "name": "Micromania Belfort centre ville",
+    "address": "11 Rue du Faubourg de France",
+    "zipcode": "90000",
+    "city": "BELFORT",
+    "coords": {
+      "lon": 6.8569179,
+      "lat": 47.6371066
+    }
+  },
+  {
+    "name": "Micromania Belle epine",
+    "address": "Centre commercial BELLE EPINE, Local 23 - Belle Epine 440",
+    "zipcode": "94561",
+    "city": "THIAIS",
+    "coords": {
+      "lon": 2.37227256,
+      "lat": 48.75630774
+    }
+  }
+]

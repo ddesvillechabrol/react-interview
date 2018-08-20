@@ -5,7 +5,7 @@ import List from './List';
 class App extends Component {
   constructor(props){
     super(props);
-    const markers = require('./fixtures/micromania.json');
+    const markers = require('./fixtures/scrapped_micromania.json');
     /* add selected state to know if a marker is selected or not */
     this.state = {
       markers: markers.map((marker) => {
